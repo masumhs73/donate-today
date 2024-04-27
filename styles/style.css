@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+.banner{
+    padding: 200px 150px;
+    text-align: center;
+    background-image: url('/images/donation13.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.banner-title{
+    font-size: 75px;
+    color: #ffffff;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.banner-description{
+    font-size: 25px;
+    font-weight: 400;
+    color: #ffffff;
+    margin: 0 150px;
+    margin-bottom: 30px;
+}
+
+.btn-primary{}
+
