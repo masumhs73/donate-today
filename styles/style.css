@@ -167,3 +167,21 @@ main{
     font-size: 16px;
     padding-bottom: 20px;
 }
+
+/* donation-scenario styles */
+
+.donation-scenario{
+    margin-bottom: 130px;
+    
+}
+
+.donation-scenario-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.donation-content{}
+
+.donation-scenari-title{}
+
+.donation-scenari-description{}
