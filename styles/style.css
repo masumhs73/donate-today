@@ -10,22 +10,160 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin-bottom: 130px;
 }
 
 .banner-title{
-    font-size: 75px;
+    font-size: 65px;
     color: #ffffff;
     font-weight: 700;
     margin-bottom: 30px;
 }
 
 .banner-description{
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 400;
     color: #ffffff;
     margin: 0 150px;
     margin-bottom: 30px;
 }
 
-.btn-primary{}
+.btn-primary{
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+    background-color:crimson;
+    border-radius: 5px;
+    border: 0;
+    height: auto;
+    width: auto;
+    width: max-content;
+    padding: 15px;
+    margin-top: 20px;
 
+}
+
+main{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* donate today section styles */
+
+.donate-today{
+   margin: 130px;
+}
+
+.donate-today-title{
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    color: darkslategrey;
+    text-align: center;
+}
+
+.donate-today-description{
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
+
+.donate-amount{
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-bottom: 50px;
+}
+
+.donation{
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 5px;
+    background-color: lightgray;
+    height:auto;
+    width: auto;
+    text-align: center;
+    padding: 50px;
+}
+.donation1{
+    font-size: 25px;
+    font-weight: 600;
+    border: 2px;
+    border-radius: 5px;
+    background-color: lightpink;
+    height:auto;
+    width: auto;
+    text-align: center;
+    padding: 50px;
+}
+.base-description{
+    text-align: center;
+    font-size: 16px;
+    color: darkslategrey;
+    margin-bottom: 10px;
+}
+
+.donate-button{
+    text-align: center;
+}
+
+.donate-plan{
+    margin-bottom: 130px;
+}
+
+.donate-plan-content{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.donate-plan-title{
+    font-size: 50px;
+    font-weight: 600;
+    color: darkslategrey;
+    padding-bottom: 20px;
+}
+
+.donate-plan-description{
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+
+.donate-plan-container{
+    display: flex;
+    gap: 25px;
+
+}
+
+.plan1{
+    border: 2px;
+    border-radius: 3px;
+    background-color: rgb(207, 233, 241);
+    padding: 60px 30px;
+}
+.plan2{
+    border: 2px;
+    border-radius: 3px;
+    background-color:rgb(248, 216, 221);
+    padding: 60px 30px;
+}
+.plan3{
+    border: 2px;
+    border-radius: 3px;
+    background-color:rgb(248, 248, 195);
+    padding: 60px 30px;
+}
+
+.plan-title{
+    font-size: 25px;
+    font-weight: 700;
+    padding: 20px 0 20px 0;
+}
+
+.plan-description{
+    font-size: 16px;
+    padding-bottom: 20px;
+}
