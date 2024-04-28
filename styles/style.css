@@ -160,19 +160,6 @@ main{
     padding: 60px 30px;
 }
 
-.plan1 img{
-    height: 53px;
-    width: 53px;
-}
-.plan2 img{
-    height: 53px;
-    width: 53px;
-}
-.plan3 img{
-    height: 53px;
-    width: 53px;
-}
-
 .plan-title{
     font-size: 25px;
     font-weight: 700;
