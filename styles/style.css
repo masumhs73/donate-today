@@ -248,3 +248,57 @@ main{
     padding: 15px;
     margin-top: 20px;
 }
+
+/* update section styles */
+
+.update{
+    margin: 200px; 
+    align-items: center;
+}
+
+.update-content{
+    text-align: center;
+}
+
+.update-title{
+    font-size: 45px;
+    font-weight: 700;
+    color: darkslategrey;
+    margin-bottom: 30px;
+}
+.update-description{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: darkgray;
+}
+.subscribe-container{    
+text-align: center;
+    margin-top: 50px;
+    background-color:burlywood;
+    padding: 100px;
+  
+}
+
+.subscribe-container input[type="email"] {
+    border: 0;
+    padding: 15px;
+    width: 350px;
+    height: 20px;
+    font-weight: 500;
+    font-size: 16px;
+    color: darkslategrey;
+    border-radius: 5px;
+}
+
+.subscribe-btn{
+    border: 0;
+    font-size: 16px;
+    font-weight: 500;
+    color:#ffffff;
+    padding: 15px;
+    height: 50px;
+    width: 150px;
+    background-color: crimson;
+    border-radius: 5px;
+}
