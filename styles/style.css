@@ -270,7 +270,7 @@ main{
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 30px;
-    color: darkgray;
+    color: rgb(59, 55, 55);
 }
 .subscribe-container{    
 text-align: center;
@@ -301,4 +301,26 @@ text-align: center;
     width: 150px;
     background-color: crimson;
     border-radius: 5px;
+}
+
+footer{
+    text-align: center;
+    background-color:rgb(18, 18, 48);
+    height: 120px;
+    padding-bottom: 30px;
+}
+
+.footer-title{
+    padding-top: 30px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: "Concert One", sans-serif;
+    font-weight: 800;
+    color: crimson;
+}
+
+.footer-description{
+    font-size: 18px;
+    margin-top: 20px;
+    color: #ffffff;
 }
