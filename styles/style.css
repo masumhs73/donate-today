@@ -186,9 +186,6 @@ main{
     height: 500px;
 }
 
-.image-container{
-    align-items: center;
-}
 .donation-scenario-title{
     font-size: 45px;
     font-weight: 700;
@@ -204,4 +201,50 @@ main{
 
 .contribute-button{
     margin-top: -120px;
+}
+
+.survive{
+    margin-bottom: 130px;
+}
+
+.survive-scenario-container{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.survive-scenario-title{
+    font-size: 45px;
+    font-weight: 700;
+    color: darkslategrey;
+    margin-right: 100px;
+    margin-bottom: 40px;
+}
+
+.survive-scenario-description{
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+.survive-scenario-container img{
+    width: 500px;
+    height: 500px;
+}
+
+.survive-contribute-button{
+   margin: -120px 0 0 605px;
+}
+
+.btn-secondary{
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+    background-color:crimson;
+    border-radius: 5px;
+    border: 0;
+    height: auto;
+    width: auto;
+    width: max-content;
+    padding: 15px;
+    margin-top: 20px;
 }
